@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-toDo-list/static/css/main.4a9f0914.chunk.css",
-    "main.js": "/react-toDo-list/static/js/main.1bf82d38.chunk.js",
-    "main.js.map": "/react-toDo-list/static/js/main.1bf82d38.chunk.js.map",
-    "runtime-main.js": "/react-toDo-list/static/js/runtime-main.6722b005.js",
-    "runtime-main.js.map": "/react-toDo-list/static/js/runtime-main.6722b005.js.map",
-    "static/js/2.bf1c1b0b.chunk.js": "/react-toDo-list/static/js/2.bf1c1b0b.chunk.js",
-    "static/js/2.bf1c1b0b.chunk.js.map": "/react-toDo-list/static/js/2.bf1c1b0b.chunk.js.map",
-    "index.html": "/react-toDo-list/index.html",
-    "precache-manifest.6e350f5426a70f579fab6606426497d8.js": "/react-toDo-list/precache-manifest.6e350f5426a70f579fab6606426497d8.js",
-    "service-worker.js": "/react-toDo-list/service-worker.js",
-    "static/css/main.4a9f0914.chunk.css.map": "/react-toDo-list/static/css/main.4a9f0914.chunk.css.map",
-    "static/js/2.bf1c1b0b.chunk.js.LICENSE": "/react-toDo-list/static/js/2.bf1c1b0b.chunk.js.LICENSE"
+    "main.css": "/react-to-do-list/static/css/main.4a9f0914.chunk.css",
+    "main.js": "/react-to-do-list/static/js/main.1bf82d38.chunk.js",
+    "main.js.map": "/react-to-do-list/static/js/main.1bf82d38.chunk.js.map",
+    "runtime-main.js": "/react-to-do-list/static/js/runtime-main.d980a20a.js",
+    "runtime-main.js.map": "/react-to-do-list/static/js/runtime-main.d980a20a.js.map",
+    "static/js/2.bf1c1b0b.chunk.js": "/react-to-do-list/static/js/2.bf1c1b0b.chunk.js",
+    "static/js/2.bf1c1b0b.chunk.js.map": "/react-to-do-list/static/js/2.bf1c1b0b.chunk.js.map",
+    "index.html": "/react-to-do-list/index.html",
+    "precache-manifest.5ab5b25216d86769063d4ea287ff14e0.js": "/react-to-do-list/precache-manifest.5ab5b25216d86769063d4ea287ff14e0.js",
+    "service-worker.js": "/react-to-do-list/service-worker.js",
+    "static/css/main.4a9f0914.chunk.css.map": "/react-to-do-list/static/css/main.4a9f0914.chunk.css.map",
+    "static/js/2.bf1c1b0b.chunk.js.LICENSE": "/react-to-do-list/static/js/2.bf1c1b0b.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.6722b005.js",
+    "static/js/runtime-main.d980a20a.js",
     "static/js/2.bf1c1b0b.chunk.js",
     "static/css/main.4a9f0914.chunk.css",
     "static/js/main.1bf82d38.chunk.js"
